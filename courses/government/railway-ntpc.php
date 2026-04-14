@@ -1,5 +1,5 @@
 <?php 
-$page_css = "/pandey/assets/css/railway-ntpc.css";
+$page_css = "/assets/css/railway-ntpc.css";
 include '../../includes/header.php'; 
 ?>
 
@@ -69,7 +69,7 @@ include '../../includes/header.php';
             <h2>Expert Faculty</h2>
 
             <div class="teacher-card">
-                <img src="/pandey/assets/img/teacher.jpg" alt="Teacher">
+                <img src="/assets/img/teacher.jpg" alt="Teacher">
                 <h3>Railway NTPC Experts</h3>
                 <p>Experienced mentors with top selection records.</p>
             </div>

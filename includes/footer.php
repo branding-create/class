@@ -29,8 +29,8 @@
     <footer class="site-footer">
         <div class="container footer-grid">
             <div class="footer-col">
-                <a href="/pandey/index.php" class="footer-logo">
-                    <img src="/pandey/assets/img/logo.png" alt="Aarsh Institute Logo" style="height: 60px; max-width: 100%; border-radius: 8px;">
+                <a href="/index.php" class="footer-logo">
+                    <img src="/assets/img/logo.png" alt="Aarsh Institute Logo" style="height: 60px; max-width: 100%; border-radius: 8px;">
                 </a>
                 <p>Transforming your future with premium offline classes and study materials.</p>
             </div>
@@ -71,6 +71,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
 
     <!-- Main JS -->
-    <script src="/pandey/assets/js/main.js"></script>
+    <script src="/assets/js/main.js"></script>
 </body>
 </html>

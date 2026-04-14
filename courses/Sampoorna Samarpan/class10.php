@@ -191,7 +191,7 @@ include '../../includes/header.php';
 <!-- 3D Scroll Tracking Elements for Class 10 -->
 <div class="premium-track-elements">
     <div id="premium-bee" class="p-element" style="width: 14rem; height: 14rem; top: 10%; right: 20%; transform: rotate(15deg); z-index: 55;">
-        <img src="/pandey/assets/img/bee.png" alt="3D Bee" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/bee-5206979-4352358.png';">
+        <img src="/assets/img/bee.png" alt="3D Bee" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/bee-5206979-4352358.png';">
     </div>
 </div>
 
@@ -199,7 +199,7 @@ include '../../includes/header.php';
 
     <!-- SCENE 1: HERO -->
     <div id="scene-1" class="c-scene">
-        <img src="/pandey/assets/img/class5_hero.png" alt="Class 10 Student" class="bg-image" style="filter: brightness(0.5) contrast(1.3);">
+        <img src="/assets/img/class5_hero.png" alt="Class 10 Student" class="bg-image" style="filter: brightness(0.5) contrast(1.3);">
         <h1 class="c-title t-hero" style="text-transform: uppercase; font-weight: 900; line-height: 1.1; margin-bottom: 0;">This Year Decides<br><span style="color: #FF003C; text-shadow: 0 0 40px rgba(255,0,60,0.4);">Everything</span></h1>
         <p class="c-subtitle" style="font-weight: 600; letter-spacing: 2px; font-size: clamp(1.2rem, 3vw, 1.6rem); margin-top: 1.5rem; color: #FFD700;">Class 10 Board Preparation – Sampoorna Samarpan Batch (Delhi)</p>
         <div class="hero-btns" style="position: relative; z-index: 10; margin-top: 3rem;">
@@ -360,7 +360,7 @@ include '../../includes/header.php';
     <!-- SCENE 13: CLASSROOM EXPERIENCE (DELHI) -->
     <div id="scene-13" class="c-scene">
         <div class="bg-wrapper">
-            <img src="/pandey/assets/img/premium_classroom.png" alt="Delhi Center Classroom for Board Prep">
+            <img src="/assets/img/premium_classroom.png" alt="Delhi Center Classroom for Board Prep">
         </div>
         <div class="content-overlay">
             <h2 class="c-title t-medium" style="margin-bottom:0;">A result-driven learning environment<br><span style="color: #FFD700;">in Delhi</span></h2>
@@ -397,6 +397,6 @@ include '../../includes/header.php';
 
 </main>
 
-<script src="/pandey/assets/js/class10-scrolly.js"></script>
+<script src="/assets/js/class10-scrolly.js"></script>
 
 <?php include '../../includes/footer.php'; ?>

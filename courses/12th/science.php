@@ -1,5 +1,5 @@
 <?php 
-$page_css = "/pandey/assets/css/class12-science.css";
+$page_css = "/assets/css/class12-science.css";
 include '../../includes/header.php'; 
 ?>
 
@@ -69,7 +69,7 @@ include '../../includes/header.php';
             <h2>Meet Your Faculty</h2>
 
             <div class="teacher-card">
-                <img src="/pandey/assets/img/teacher.jpg" alt="Teacher">
+                <img src="/assets/img/teacher.jpg" alt="Teacher">
                 <h3>Expert Science Faculty</h3>
                 <p>Highly experienced teachers for Boards + NEET/JEE preparation.</p>
             </div>

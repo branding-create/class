@@ -1,5 +1,5 @@
 <?php 
-$page_css = "/pandey/assets/css/ssc-chsl.css";
+$page_css = "/assets/css/ssc-chsl.css";
 include '../../includes/header.php'; 
 ?>
 
@@ -69,7 +69,7 @@ include '../../includes/header.php';
             <h2>Expert Faculty</h2>
 
             <div class="teacher-card">
-                <img src="/pandey/assets/img/teacher.jpg" alt="Teacher">
+                <img src="/assets/img/teacher.jpg" alt="Teacher">
                 <h3>Government Exam Experts</h3>
                 <p>Experienced mentors with proven selection results.</p>
             </div>

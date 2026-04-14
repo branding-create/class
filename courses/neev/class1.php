@@ -7,13 +7,13 @@ include '../../includes/header.php';
 <!-- 3D Scroll Tracking Elements (Fanta Style) -->
 <div class="premium-track-elements">
     <div id="premium-book" class="p-element" style="width: 15rem; height: 15rem; top: 10%; right: 25%; transform: rotate(15deg); z-index: 52;">
-        <img src="/pandey/assets/img/book.png" alt="3D Book" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/book-4993683-4163486.png';">
+        <img src="/assets/img/book.png" alt="3D Book" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/book-4993683-4163486.png';">
     </div>
     <div id="premium-pen" class="p-element" style="width: 12rem; height: 12rem; top: 15%; right: 5%; transform: rotate(0deg); z-index: 53;">
-        <img src="/pandey/assets/img/pen.png" alt="3D Pen" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/pen-5182414-4325492.png';">
+        <img src="/assets/img/pen.png" alt="3D Pen" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/pen-5182414-4325492.png';">
     </div>
     <div id="premium-cap" class="p-element" style="width: 18rem; height: 18rem; top: 60%; right: -5%; transform: rotate(-15deg); z-index: 51;">
-        <img src="/pandey/assets/img/cap.png" alt="3D Cap" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/graduation-cap-5301826-4444583.png';">
+        <img src="/assets/img/cap.png" alt="3D Cap" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/graduation-cap-5301826-4444583.png';">
     </div>
 </div>
 
@@ -21,7 +21,7 @@ include '../../includes/header.php';
 
     <!-- SCENE 1: HERO -->
     <div id="scene-1" class="c-scene">
-        <img src="/pandey/assets/img/classroom_hero.png" alt="Child Learning" class="bg-image">
+        <img src="/assets/img/classroom_hero.png" alt="Child Learning" class="bg-image">
         <h1 class="c-title">Give Your Child the <br><span class="c-highlight">Strongest Start</span></h1>
         <p class="c-subtitle">Class 1 Foundation Program in Delhi by Aarsh Institute</p>
         <div class="hero-btns" style="position: relative; z-index: 10;">
@@ -39,7 +39,7 @@ include '../../includes/header.php';
     <div id="scene-3" class="c-scene">
         <h2 class="c-title">We build strong foundations<br>from <span class="c-highlight">Day One.</span></h2>
         <div class="teacher-img-wrap" style="width: 100%; max-width: 800px; margin-top: 3rem; border-radius: 20px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
-            <img src="/pandey/assets/img/teacher_learning.png" alt="Teacher guiding child" style="width: 100%; height: auto; display: block; object-fit: cover;">
+            <img src="/assets/img/teacher_learning.png" alt="Teacher guiding child" style="width: 100%; height: auto; display: block; object-fit: cover;">
         </div>
     </div>
 
@@ -100,7 +100,7 @@ include '../../includes/header.php';
     <!-- SCENE 7: CLASSROOM EXPERIENCE (DELHI ZOOM) -->
     <div id="scene-7" class="c-scene">
         <div class="bg-wrapper">
-            <img src="/pandey/assets/img/premium_classroom.png" alt="Delhi Center">
+            <img src="/assets/img/premium_classroom.png" alt="Delhi Center">
         </div>
         <div class="content-overlay">
             <h2 class="c-title" style="margin-bottom:0;">A focused, safe, and disciplined<br>learning space in Delhi</h2>
@@ -176,6 +176,6 @@ include '../../includes/header.php';
 </main>
 
 <!-- Scrolly JS included specific to Class 1 ONLY before Footer -->
-<script src="/pandey/assets/js/class1-scrolly.js"></script>
+<script src="/assets/js/class1-scrolly.js"></script>
 
 <?php include '../../includes/footer.php'; ?>

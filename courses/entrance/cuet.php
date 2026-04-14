@@ -1,5 +1,5 @@
 <?php 
-$page_css = "/pandey/assets/css/cuet.css";
+$page_css = "/assets/css/cuet.css";
 include '../../includes/header.php'; 
 ?>
 
@@ -69,7 +69,7 @@ include '../../includes/header.php';
             <h2>Expert Faculty</h2>
 
             <div class="teacher-card">
-                <img src="/pandey/assets/img/teacher.jpg" alt="Teacher">
+                <img src="/assets/img/teacher.jpg" alt="Teacher">
                 <h3>CUET Experts</h3>
                 <p>Experienced mentors helping students get top university admissions.</p>
             </div>

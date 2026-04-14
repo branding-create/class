@@ -110,13 +110,13 @@ include '../../includes/header.php';
 <!-- 3D Scroll Tracking Elements (15 stops mapping) -->
 <div class="premium-track-elements">
     <div id="premium-book" class="p-element" style="width: 15rem; height: 15rem; top: 10%; right: 20%; transform: rotate(25deg); z-index: 52;">
-        <img src="/pandey/assets/img/book.png" alt="3D Book" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/book-4993683-4163486.png';">
+        <img src="/assets/img/book.png" alt="3D Book" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/book-4993683-4163486.png';">
     </div>
     <div id="premium-pen" class="p-element" style="width: 12rem; height: 12rem; top: 15%; right: 10%; transform: rotate(10deg); z-index: 53;">
-        <img src="/pandey/assets/img/pen.png" alt="3D Pen" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/pen-5182414-4325492.png';">
+        <img src="/assets/img/pen.png" alt="3D Pen" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/pen-5182414-4325492.png';">
     </div>
     <div id="premium-cap" class="p-element" style="width: 18rem; height: 18rem; top: 65%; right: 5%; transform: rotate(-25deg); z-index: 51;">
-        <img src="/pandey/assets/img/cap.png" alt="3D Cap" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/graduation-cap-5301826-4444583.png';">
+        <img src="/assets/img/cap.png" alt="3D Cap" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/graduation-cap-5301826-4444583.png';">
     </div>
 </div>
 
@@ -124,7 +124,7 @@ include '../../includes/header.php';
 
     <!-- SCENE 1: HERO -->
     <div id="scene-1" class="c-scene">
-        <img src="/pandey/assets/img/class4_hero.png" alt="Student solving confidently and quickly" class="bg-image">
+        <img src="/assets/img/class4_hero.png" alt="Student solving confidently and quickly" class="bg-image">
         <h1 class="c-title">Now Your Child Moves<br><span class="c-highlight">Ahead of the Class</span></h1>
         <p class="c-subtitle">Class 5 Excellence Program – Aarsh Institute, Delhi</p>
         <div class="hero-btns" style="position: relative; z-index: 10;">
@@ -308,7 +308,7 @@ include '../../includes/header.php';
     <!-- SCENE 13: CLASSROOM EXPERIENCE (DELHI) -->
     <div id="scene-13" class="c-scene">
         <div class="bg-wrapper">
-            <img src="/pandey/assets/img/premium_classroom.png" alt="Delhi Center Classroom">
+            <img src="/assets/img/premium_classroom.png" alt="Delhi Center Classroom">
         </div>
         <div class="content-overlay">
             <h2 class="c-title" style="margin-bottom:0;">A performance-driven learning<br>environment in Delhi</h2>
@@ -344,6 +344,6 @@ include '../../includes/header.php';
 
 </main>
 
-<script src="/pandey/assets/js/class5-scrolly.js"></script>
+<script src="/assets/js/class5-scrolly.js"></script>
 
 <?php include '../../includes/footer.php'; ?>

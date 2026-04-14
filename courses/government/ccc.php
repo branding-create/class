@@ -57,7 +57,7 @@ include '../../includes/header.php';
             <h2>Expert Trainer</h2>
 
             <div class="teacher-card">
-                <img src="/pandey/assets/img/teacher.jpg" alt="Trainer">
+                <img src="/assets/img/teacher.jpg" alt="Trainer">
                 <h3>Computer Instructor</h3>
                 <p>Experienced trainer for basic & advanced computer skills.</p>
             </div>

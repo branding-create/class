@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
     
     <!-- CSS -->
-    <link rel="stylesheet" href="/pandey/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
 
 <?php if(isset($page_css)) { ?>
 <link rel="stylesheet" href="<?php echo $page_css; ?>">

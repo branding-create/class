@@ -133,13 +133,13 @@ include '../../includes/header.php';
 <!-- 3D Scroll Tracking Elements -->
 <div class="premium-track-elements">
     <div id="premium-book" class="p-element" style="width: 15rem; height: 15rem; top: 10%; right: 20%; transform: rotate(25deg); z-index: 52;">
-        <img src="/pandey/assets/img/book.png" alt="3D Book" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/book-4993683-4163486.png';">
+        <img src="/assets/img/book.png" alt="3D Book" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/book-4993683-4163486.png';">
     </div>
     <div id="premium-pen" class="p-element" style="width: 12rem; height: 12rem; top: 15%; right: 10%; transform: rotate(10deg); z-index: 53;">
-        <img src="/pandey/assets/img/pen.png" alt="3D Pen" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/pen-5182414-4325492.png';">
+        <img src="/assets/img/pen.png" alt="3D Pen" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/pen-5182414-4325492.png';">
     </div>
     <div id="premium-cap" class="p-element" style="width: 18rem; height: 18rem; top: 65%; right: 5%; transform: rotate(-25deg); z-index: 51;">
-        <img src="/pandey/assets/img/cap.png" alt="3D Cap" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/graduation-cap-5301826-4444583.png';">
+        <img src="/assets/img/cap.png" alt="3D Cap" onerror="this.src='https://cdn3d.iconscout.com/3d/premium/thumb/graduation-cap-5301826-4444583.png';">
     </div>
 </div>
 
@@ -147,7 +147,7 @@ include '../../includes/header.php';
 
     <!-- SCENE 1: HERO -->
     <div id="scene-1" class="c-scene">
-        <img src="/pandey/assets/img/class5_hero.png" alt="Class 8 Student" class="bg-image" style="filter: brightness(0.7) contrast(1.2);">
+        <img src="/assets/img/class5_hero.png" alt="Class 8 Student" class="bg-image" style="filter: brightness(0.7) contrast(1.2);">
         <h1 class="c-title" style="text-transform: uppercase; font-weight: 900; font-size: 5rem; line-height: 1.1;">This Is Where Real<br><span style="color: #FFD700;">Preparation Begins</span></h1>
         <p class="c-subtitle" style="font-weight: 500; letter-spacing: 2px;">Class 8 (Super 8 Final Level) – Aarsh Institute, Delhi</p>
         <div class="hero-btns" style="position: relative; z-index: 10;">
@@ -335,7 +335,7 @@ include '../../includes/header.php';
     <!-- SCENE 13: CLASSROOM EXPERIENCE (DELHI) -->
     <div id="scene-13" class="c-scene">
         <div class="bg-wrapper">
-            <img src="/pandey/assets/img/premium_classroom.png" alt="Delhi Center Classroom">
+            <img src="/assets/img/premium_classroom.png" alt="Delhi Center Classroom">
         </div>
         <div class="content-overlay">
             <h2 class="c-title" style="margin-bottom:0; font-size: 3.5rem;">A serious learning environment<br><span style="color: #FFD700;">for serious students in Delhi</span></h2>
@@ -371,6 +371,6 @@ include '../../includes/header.php';
 
 </main>
 
-<script src="/pandey/assets/js/class8-scrolly.js"></script>
+<script src="/assets/js/class8-scrolly.js"></script>
 
 <?php include '../../includes/footer.php'; ?>

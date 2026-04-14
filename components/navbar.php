@@ -34,61 +34,61 @@
 <nav class="navbar" id="navbar">
     <div class="navbar-container container">
         <div class="nav-logo">
-            <a href="/pandey/index.php" class="logo-img">
-    <img src="/pandey/assets/img/logo.png" alt="Aarsh Institute Logo">
+            <a href="/index.php" class="logo-img">
+    <img src="/assets/img/logo.png" alt="Aarsh Institute Logo">
 </a>
         </div>
         
         <div class="nav-menu" id="navMenu">
             <ul class="nav-list">
-                <li class="nav-item"><a href="/pandey/index.php" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="/index.php" class="nav-link">Home</a></li>
                 <li class="nav-item dropdown">
                     <a href="#courses" class="nav-link">Courses <span class="caret-down"></span></a>
                     <ul class="dropdown-menu">
                         <li class="dropdown-item dropdown">
                             <a href="#">Neev Batch (1st to 5th) <span class="caret-right"></span></a>
                             <ul class="dropdown-menu dropdown-submenu">
-                                <li><a href="/pandey/courses/neev/class1.php">Class 1</a></li>
-                                <li><a href="/pandey/courses/neev/class2.php">Class 2</a></li>
-                                <li><a href="/pandey/courses/neev/class3.php">Class 3</a></li>
-                                <li><a href="/pandey/courses/neev/class4.php">Class 4</a></li>
-                                <li><a href="/pandey/courses/neev/class5.php">Class 5</a></li>
+                                <li><a href="/courses/neev/class1.php">Class 1</a></li>
+                                <li><a href="/courses/neev/class2.php">Class 2</a></li>
+                                <li><a href="/courses/neev/class3.php">Class 3</a></li>
+                                <li><a href="/courses/neev/class4.php">Class 4</a></li>
+                                <li><a href="/courses/neev/class5.php">Class 5</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-item dropdown">
                             <a href="#">Super 8 Batch (6th to 8th) <span class="caret-right"></span></a>
                             <ul class="dropdown-menu dropdown-submenu">
-                                <li><a href="/pandey/courses/super8/class6.php">Class 6</a></li>
-                                <li><a href="/pandey/courses/super8/class7.php">Class 7</a></li>
-                                <li><a href="/pandey/courses/super8/class8.php">Class 8</a></li>
+                                <li><a href="/courses/super8/class6.php">Class 6</a></li>
+                                <li><a href="/courses/super8/class7.php">Class 7</a></li>
+                                <li><a href="/courses/super8/class8.php">Class 8</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-item dropdown">
                             <a href="#">Samarpan Batch (9th) <span class="caret-right"></span></a>
                             <ul class="dropdown-menu dropdown-submenu">
-                                <li><a href="/pandey/courses/samarpan/class9.php">Class 9</a></li>
+                                <li><a href="/courses/samarpan/class9.php">Class 9</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-item dropdown">
                             <a href="#">Sampoorna Samarpan (10th) <span class="caret-right"></span></a>
                             <ul class="dropdown-menu dropdown-submenu">
-                                <li><a href="/pandey/courses/Sampoorna Samarpan/class10.php">Class 10</a></li>
+                                <li><a href="/courses/Sampoorna Samarpan/class10.php">Class 10</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-item dropdown">
                             <a href="#">Exam Photo Batch (11th) <span class="caret-right"></span></a>
                             <ul class="dropdown-menu dropdown-submenu">
-                                <li><a href="/pandey/courses/exam/science.php">Class 11th SCIENCE</a></li>
-                                <li><a href="/pandey/courses/exam/commerce.php">Class 11th COMMERCE</a></li>
-                                <li><a href="/pandey/courses/exam/arts.php">Class 11th ARTS</a></li>
+                                <li><a href="/courses/exam/science.php">Class 11th SCIENCE</a></li>
+                                <li><a href="/courses/exam/commerce.php">Class 11th COMMERCE</a></li>
+                                <li><a href="/courses/exam/arts.php">Class 11th ARTS</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-item dropdown">
                             <a href="#">Paritosh Batch (12th) <span class="caret-right"></span></a>
                             <ul class="dropdown-menu dropdown-submenu">
-                                <li><a href="/pandey/courses/12th/arts.php">Class 12th ARTS</a></li>
-                                <li><a href="/pandey/courses/12th/commerce.php">Class 12th COMMERCE</a></li>
-                                <li><a href="/pandey/courses/12th/science.php">Class 12th SCIENCE</a></li>
+                                <li><a href="/courses/12th/arts.php">Class 12th ARTS</a></li>
+                                <li><a href="/courses/12th/commerce.php">Class 12th COMMERCE</a></li>
+                                <li><a href="/courses/12th/science.php">Class 12th SCIENCE</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-item dropdown">
@@ -97,16 +97,16 @@
                                 <li class="dropdown-item dropdown">
                                     <a href="#">UG Courses <span class="caret-right"></span></a>
                                     <ul class="dropdown-menu dropdown-submenu">
-                                        <li><a href="/pandey/courses/ug/bcom.php">B.Com</a></li>
-                                        <li><a href="/pandey/courses/ug/ba.php">BA</a></li>
-                                        <li><a href="/pandey/courses/ug/bba.php">BBA</a></li>
+                                        <li><a href="/courses/ug/bcom.php">B.Com</a></li>
+                                        <li><a href="/courses/ug/ba.php">BA</a></li>
+                                        <li><a href="/courses/ug/bba.php">BBA</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-item dropdown">
                                     <a href="#">PG Courses <span class="caret-right"></span></a>
                                     <ul class="dropdown-menu dropdown-submenu">
-                                        <li><a href="/pandey/courses/pg/mcom.php">M.Com</a></li>
-                                        <li><a href="/pandey/courses/pg/ma.php">MA</a></li>
+                                        <li><a href="/courses/pg/mcom.php">M.Com</a></li>
+                                        <li><a href="/courses/pg/ma.php">MA</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -117,23 +117,23 @@
                                 <li class="dropdown-item dropdown">
                                     <a href="#">Government Exams <span class="caret-right"></span></a>
                                     <ul class="dropdown-menu dropdown-submenu">
-                                        <li><a href="/pandey/courses/government/ssc-chsl.php">SSC CHSL (10+2 Level)</a></li>
-                                        <li><a href="/pandey/courses/government/ssc-gd.php">SSC GD Constable</a></li>
-                                        <li><a href="/pandey/courses/government/ssc-mts.php">SSC MTS (Multi-Tasking Staff)</a></li>
-                                        <li><a href="/pandey/courses/government/ssc-steno.php">SSC Stenographer (Grade C & D)</a></li>
-                                        <li><a href="/pandey/courses/government/railway-groupd.php">RAILWAY RRB Group D</a></li>
-                                        <li><a href="/pandey/courses/government/railway-ntpc.php">RAILWAY RRB NTPC</a></li>
-                                        <li><a href="/pandey/courses/government/banking.php">Banking</a></li>
+                                        <li><a href="/courses/government/ssc-chsl.php">SSC CHSL (10+2 Level)</a></li>
+                                        <li><a href="/courses/government/ssc-gd.php">SSC GD Constable</a></li>
+                                        <li><a href="/courses/government/ssc-mts.php">SSC MTS (Multi-Tasking Staff)</a></li>
+                                        <li><a href="/courses/government/ssc-steno.php">SSC Stenographer (Grade C & D)</a></li>
+                                        <li><a href="/courses/government/railway-groupd.php">RAILWAY RRB Group D</a></li>
+                                        <li><a href="/courses/government/railway-ntpc.php">RAILWAY RRB NTPC</a></li>
+                                        <li><a href="/courses/government/banking.php">Banking</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-item dropdown">
                                     <a href="#">Entrance Exams <span class="caret-right"></span></a>
                                     <ul class="dropdown-menu dropdown-submenu">
-                                        <li><a href="/pandey/courses/entrance/clat.php">CLAT</a></li>
-                                        <li><a href="/pandey/courses/entrance/cuet.php">CUET</a></li>
+                                        <li><a href="/courses/entrance/clat.php">CLAT</a></li>
+                                        <li><a href="/courses/entrance/cuet.php">CUET</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="/pandey/courses/government/ccc.php">Computer Courses (CCC) Govt approved</a></li>
+                                <li><a href="/courses/government/ccc.php">Computer Courses (CCC) Govt approved</a></li>
                             </ul>
                         </li>
                     </ul>

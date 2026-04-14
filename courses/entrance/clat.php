@@ -1,5 +1,5 @@
 <?php 
-$page_css = "/pandey/assets/css/clat.css";
+$page_css = "/assets/css/clat.css";
 include '../../includes/header.php'; 
 ?>
 
@@ -70,7 +70,7 @@ include '../../includes/header.php';
             <h2>Expert Faculty</h2>
 
             <div class="teacher-card">
-                <img src="/pandey/assets/img/teacher.jpg" alt="Teacher">
+                <img src="/assets/img/teacher.jpg" alt="Teacher">
                 <h3>Law Entrance Experts</h3>
                 <p>Experienced mentors with NLU selection experience.</p>
             </div>
